@@ -1,4 +1,4 @@
-### <div align="center">I'm Mehmet Ozdemir, a full-time full-stack mobile developer 👨‍💻 working since 2022 🚀</div>  
+### <div align="center">I'm Mehmet Ozdemir, a full-time full-stack mobile/web developer 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🔭 I'm actively working on enhancing my knowledge in Laravel and React Native. I believe in continuous learning and staying up-to-date with the latest technologies.  

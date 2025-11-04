@@ -1,15 +1,7 @@
 ### <div align="center">I'm Mehmet Ozdemir, a full-time full-stack mobile/web developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I'm actively working on enhancing my knowledge in Laravel and React Native. I believe in continuous learning and staying up-to-date with the latest technologies.  
-  
-
-- 💞️ I'm looking to collaborate on... I would be delighted to collaborate on projects involving Flutter, React Native, or Laravel. Additionally, I can contribute to mobile app or web projects leveraging my experience in team leadership.  
-  
-
-- 🌱 I'm currently learning... I'm actively working on enhancing my knowledge in Laravel and React Native. I believe in continuous learning and staying up-to-date with the latest technologies.  
-  
-
+- I'm actively working on enhancing my knowledge in Laravel and React Native. I believe in continuous learning and staying up-to-date with the latest technologies.  
 <br/>  
 
 
